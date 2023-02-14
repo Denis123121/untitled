@@ -1,0 +1,38 @@
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    background-color: #f0ef80
+}
+
+h3
+{
+    text-align: center;
+}
+
+p
+{
+
+}
+.member
+{
+    display: inline-block;
+    width: 20%;
+    border: 2px solid grey;
+    text-align: left;
+    padding: 20px;
+    margin: 25px;
+}
+.photo
+{
+    width: 100%;
+
+}
+
+.heading
+{
+    width: 1000px;
+}
